@@ -106,12 +106,11 @@ end
 <h2>Program</h2>
 '''py
 class TicTacToe:
+
+
     def __init__(self):
-        # Initialize an empty board
         self.board = [' ']*9
-        # Define players
         self.players = ['X', 'O']
-        # Define active player
         self.active_player = 'X'
 
     def print_board(self):
