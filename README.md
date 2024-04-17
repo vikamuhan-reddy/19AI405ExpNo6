@@ -229,5 +229,10 @@ else:
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
 
 <hr>
+
+<h2>output</h2>
+<img width="1280" alt="Screen Shot 1946-01-27 at 20 31 48 copy" src="https://github.com/vikamuhan-reddy/19AI405ExpNo6/assets/144928933/9c03179f-2a72-482d-95a7-a835271de101">
+<img width="1280" alt="Screen Shot 1946-01-27 at 20 36 25" src="https://github.com/vikamuhan-reddy/19AI405ExpNo6/assets/144928933/dceb88cc-2853-44fa-858c-d76185cab4b1">
+
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
