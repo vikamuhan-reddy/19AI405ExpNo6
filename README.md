@@ -104,10 +104,11 @@ end
 
 <hr>
 <h2>Program</h2>
+
 '''py
 
-class TicTacToe:
 
+class TicTacToe:
 
     def __init__(self):
         self.board = [' ']*9
